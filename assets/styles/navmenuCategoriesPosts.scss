@@ -1,0 +1,16 @@
+.nav-menu-categories__posts {
+  li {
+    a {
+      border: 1px solid #000000;
+      box-shadow: -2px 2px 0px #000000;
+      border-radius: 4px;
+      transition: opacity 0.3s;
+      &:hover {
+        opacity: .7;
+      }
+      &.active {
+        border-bottom-color: $secondary-color;
+      }
+    }
+  }
+}

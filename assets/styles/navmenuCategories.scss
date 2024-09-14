@@ -1,0 +1,14 @@
+.nav-menu-categories {
+  li {
+    a {
+      border-bottom: 9px solid transparent;
+      transition: border-bottom .4s;
+      &:hover {
+        border-bottom-color: $secondary-light-color;
+      }
+      &.active {
+        border-bottom-color: $secondary-color;
+      }
+    }
+  }
+}

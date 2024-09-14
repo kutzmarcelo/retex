@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Ambiente",
+    "link": "/ambiente",
+    "color": "#E2F1E8"
+  },
+  {
+    "name": "Economia",
+    "link": "/economia",
+    "color": "#ffffff"
+  },
+  {
+    "name": "Mondo",
+    "link": "/mondo",
+    "color": "#F1DADA"
+  },
+  {
+    "name": "Non Profit",
+    "link": "/non-profit",
+    "color": "#ffffff"
+  },
+  {
+    "name": "Politica",
+    "link": "/politica",
+    "color": "#F1F1E2"
+  },
+  {
+    "name": "Società",
+    "link": "/societa",
+    "color": "#ffffff"
+  },
+  {
+    "name": "Welfare",
+    "link": "/welfare",
+    "color": "#ffffff"
+  }
+]

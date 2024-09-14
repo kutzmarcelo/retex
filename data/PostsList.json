@@ -1,0 +1,72 @@
+[
+  {
+    "title": "“Qui Odessa”, fotografie, progetti e solidarietà",
+    "category": "Progetto Arca",
+    "show_player": false,
+    "image": "",
+    "image_mobile": "",
+    "image_mobile_caption": "",
+    "show_image_mobile": false,
+    "overlay": "0",
+    "author_image": "https://picsum.photos/50/50",
+    "author": "Di Redazione",
+    "date": "13 Luglio 2022",
+    "link": "/news"
+  },
+  {
+    "title": "Storie fra ragazzi permeate di violenza. A Napoli 12enne sfregiata da 17enne",
+    "category": "Adolescenti",
+    "show_player": false,
+    "image": "https://picsum.photos/950/450?v=2",
+    "image_mobile": "https://picsum.photos/360/360?v=2",
+    "image_mobile_caption": "",
+    "show_image_mobile": false,
+    "overlay": "0.5",
+    "author_image": "https://picsum.photos/50/50?v=2b",
+    "author": "Di Luca Cereda",
+    "date": "13 Luglio 2022",
+    "link": "/news"
+  },
+  {
+    "title": "“Co-agitiamo”, Tiggiano una cooperativa di comunità contro lo spopolamento",
+    "category": "Economia Civile",
+    "show_player": false,
+    "image": "https://picsum.photos/950/450?v=3",
+    "image_mobile": "https://picsum.photos/360/360?v=3",
+    "image_mobile_caption": "",
+    "show_image_mobile": false,
+    "overlay": "0.5",
+    "author_image": "https://picsum.photos/50/50?v=3b",
+    "author": "Di Luca Cereda",
+    "date": "12 Luglio 2022",
+    "link": "/news"
+  },
+  {
+    "title": "Troppi abusi nello sport minorile, il governo interviene",
+    "category": "Sport",
+    "show_player": true,
+    "image": "https://picsum.photos/950/450?v=4",
+    "image_mobile": "https://picsum.photos/360/360?v=4",
+    "image_mobile_caption": "",
+    "show_image_mobile": false,
+    "overlay": "0.5",
+    "author_image": "https://picsum.photos/50/50?v=4b",
+    "author": "Di Diletta Grella",
+    "date": "9 Luglio 2022",
+    "link": "/news"
+  },
+  {
+    "title": "Donne e nuove generazioni: con loro riparte l’Italia",
+    "category": "Società",
+    "show_player": false,
+    "image": "https://picsum.photos/950/450?v=5",
+    "image_mobile": "https://picsum.photos/360/360?v=5",
+    "image_mobile_caption": "Intervista a <br><strong>Mariangela Cassano</strong>",
+    "show_image_mobile": true,
+    "overlay": "0.2",
+    "author_image": "https://picsum.photos/50/50?v=5b",
+    "author": "Di Anna Spena",
+    "date": "9 Luglio 2022",
+    "link": "/news"
+  }
+]
